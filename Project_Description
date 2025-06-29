@@ -1,0 +1,3 @@
+## Project Desciption
+
+This project explores how different lifestyle and academic factors affect student sleep duration. Using a real-world dataset, we performed data analysis and built a machine learning model (Random Forest Regressor) to identify the most important factors influencing how long students sleep. The goal is to better understand student habits and what impacts their sleep the most.
